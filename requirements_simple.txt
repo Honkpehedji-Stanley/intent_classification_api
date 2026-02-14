@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-transformers
-torch
-sentencepiece
-pydantic
-requests

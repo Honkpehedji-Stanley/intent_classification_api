@@ -1,0 +1,2632 @@
+[
+  {
+    "id": 2445,
+    "text": "Je cherche un covoiturage, pas un train, pour Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2233,
+    "text": "Trajet retour : Brest vers Metz.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2330,
+    "text": "Je t'envoie ce message depuis la gare de Dijon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2016,
+    "text": "Je prends le train à Quimper et j'arrive à Le Mans vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2305,
+    "text": "Bla bla bla Evreux Nancy n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2243,
+    "text": "Organise mon voyage entre Quimper et Reims s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2072,
+    "text": "Y a-t-il des liaisons directes Evreux-Le Mans ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2190,
+    "text": "Est-il possible de transiter par Lyon pour aller de Brest à Vierzon ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2217,
+    "text": "Organise mon voyage entre Nancy et Reims s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2344,
+    "text": "Mon film préféré a été tourné à Tours.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2314,
+    "text": "Bla bla bla Dijon Bourges n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2466,
+    "text": "Bla bla bla Evreux Nancy n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2497,
+    "text": "Je cherche un covoiturage, pas un train, pour Le Mans.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2128,
+    "text": "Y a-t-il des liaisons directes Rouen-Nancy ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2353,
+    "text": "Je voudrais acheter un livre sur l'histoire de Angers.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2094,
+    "text": "Je quitte enfin Angers pour m'installer à Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2013,
+    "text": "direction Reims depui Dieppe vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2492,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Le Mans.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2301,
+    "text": "Bla bla bla Rouen Metz n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2023,
+    "text": "Y a-t-il des liaisons directes Nancy-Pau ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2448,
+    "text": "Je cherche un covoiturage, pas un train, pour Angers.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2435,
+    "text": "Je voudrais acheter un livre sur l'histoire de Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2208,
+    "text": "Je quitte enfin Vierzon pour m'installer à Tours.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2267,
+    "text": "Le train de vie à Bourges est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2039,
+    "text": "Peux-tu me trouver un ticket pour Tours ? Actuellement je suis à Rouen.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2234,
+    "text": "Y a-t-il des liaisons directes Metz-Evreux ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2469,
+    "text": "Je voudrais acheter un livre sur l'histoire de Tours.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2474,
+    "text": "Bla bla bla Vierzon Metz n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2486,
+    "text": "J'ai réservé un hôtel à Vierzon mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2312,
+    "text": "Bla bla bla Dijon Bourges n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2475,
+    "text": "Le train de vie à Metz est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2211,
+    "text": "Peux-tu me trouver un ticket pour Metz ? Actuellement je suis à Pau.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2229,
+    "text": "Peux-tu me trouver un ticket pour Vierzon ? Actuellement je suis à Biarritz.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2138,
+    "text": "Je quitte enfin Nancy pour m'installer à Quimper.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2132,
+    "text": "direction Evreux depui Biarritz vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2045,
+    "text": "J'ai une réunion à Metz, du coup je pars de Dieppe ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2375,
+    "text": "J'ai réservé un hôtel à Tours mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2481,
+    "text": "J'ai réservé un hôtel à Metz mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2088,
+    "text": "direction Biarritz depui Rouen vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2180,
+    "text": "Peux-tu me trouver un ticket pour Tours ? Actuellement je suis à Dieppe.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2290,
+    "text": "Comment est la météo sur la route entre Pau et Metz ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2450,
+    "text": "Il n'y a plus d'oranges à la biocoop de Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2014,
+    "text": "Je quitte enfin Quimper pour m'installer à Tours.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2030,
+    "text": "Je quitte enfin Metz pour m'installer à Pau.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2042,
+    "text": "Trajet retour : Dijon vers Angers.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2025,
+    "text": "direction Reims depui Vierzon vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2351,
+    "text": "Je voudrais acheter un livre sur l'histoire de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2083,
+    "text": "Est-il possible de transiter par Lyon pour aller de Angers à Quimper ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2139,
+    "text": "Je quitte enfin Dijon pour m'installer à Brest.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2470,
+    "text": "Mon film préféré a été tourné à Pau.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2006,
+    "text": "Je dois filer à Quimper, je décolle de Tours.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2040,
+    "text": "Je dois filer à Bourges, je décolle de Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2468,
+    "text": "Il n'y a plus d'oranges à la biocoop de Angers.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2390,
+    "text": "Il n'y a plus d'oranges à la biocoop de Quimper.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2005,
+    "text": "Je dois filer à Bourges, je décolle de Angers.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2122,
+    "text": "Est-il possible de transiter par Lyon pour aller de Biarritz à Evreux ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2174,
+    "text": "Peux-tu me trouver un ticket pour Bourges ? Actuellement je suis à Metz.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2224,
+    "text": "Est-il possible de transiter par Lyon pour aller de Reims à Tours ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2323,
+    "text": "Mon film préféré a été tourné à Dijon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2369,
+    "text": "Je voudrais acheter un livre sur l'histoire de Tours.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2012,
+    "text": "Je quitte enfin Angers pour m'installer à Brest.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2337,
+    "text": "J'ai réservé un hôtel à Brest mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2437,
+    "text": "Bla bla bla Bourges Brest n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2111,
+    "text": "Organise mon voyage entre Tours et Angers s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2309,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Brest.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2453,
+    "text": "Il n'y a plus d'oranges à la biocoop de Pau.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2104,
+    "text": "Organise mon voyage entre Reims et Tours s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2265,
+    "text": "Est-ce que Angers est une ville plus grande que Tours ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2463,
+    "text": "Comment est la météo sur la route entre Reims et Vierzon ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2433,
+    "text": "J'ai réservé un hôtel à Vierzon mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2380,
+    "text": "Mon film préféré a été tourné à Metz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2496,
+    "text": "Je cherche un covoiturage, pas un train, pour Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2429,
+    "text": "Bla bla bla Dijon Evreux n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2223,
+    "text": "Trajet retour : Brest vers Reims.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2010,
+    "text": "Trajet retour : Vierzon vers Dijon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2440,
+    "text": "Je t'envoie ce message depuis la gare de Brest.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2373,
+    "text": "Je cherche un covoiturage, pas un train, pour Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2203,
+    "text": "Trajet retour : Rouen vers Tours.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2315,
+    "text": "Mon film préféré a été tourné à Rouen.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2049,
+    "text": "direction Rouen depui Biarritz vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2084,
+    "text": "Y a-t-il des liaisons directes Quimper-Biarritz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2071,
+    "text": "J'ai une réunion à Dieppe, du coup je pars de Brest ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2348,
+    "text": "Le train de vie à Biarritz est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2032,
+    "text": "Je quitte enfin Vierzon pour m'installer à Angers.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2048,
+    "text": "J'ai une réunion à Le Mans, du coup je pars de Reims ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2275,
+    "text": "Le train de vie à Biarritz est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2350,
+    "text": "Je t'envoie ce message depuis la gare de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2018,
+    "text": "Je quitte enfin Angers pour m'installer à Evreux.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2424,
+    "text": "Mon film préféré a été tourné à Le Mans.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2187,
+    "text": "Organise mon voyage entre Le Mans et Bourges s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2319,
+    "text": "Mon film préféré a été tourné à Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2327,
+    "text": "Bla bla bla Nancy Evreux n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2452,
+    "text": "Est-ce que Quimper est une ville plus grande que Biarritz ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2298,
+    "text": "Je cherche un covoiturage, pas un train, pour Pau.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2408,
+    "text": "Je voudrais acheter un livre sur l'histoire de Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2050,
+    "text": "Je dois filer à Vierzon, je décolle de Brest.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2422,
+    "text": "J'ai réservé un hôtel à Pau mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2360,
+    "text": "Je t'envoie ce message depuis la gare de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2343,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Quimper.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2382,
+    "text": "J'ai réservé un hôtel à Reims mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2441,
+    "text": "Je voudrais acheter un livre sur l'histoire de Pau.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2324,
+    "text": "J'ai réservé un hôtel à Bourges mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2387,
+    "text": "J'ai réservé un hôtel à Dieppe mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2035,
+    "text": "Je dois filer à Dieppe, je décolle de Reims.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2134,
+    "text": "Peux-tu me trouver un ticket pour Pau ? Actuellement je suis à Quimper.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2079,
+    "text": "Organise mon voyage entre Biarritz et Metz s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2457,
+    "text": "Je voudrais acheter un livre sur l'histoire de Vierzon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2293,
+    "text": "Est-ce que Pau est une ville plus grande que Bourges ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2368,
+    "text": "Je voudrais acheter un livre sur l'histoire de Tours.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2391,
+    "text": "Je t'envoie ce message depuis la gare de Brest.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2295,
+    "text": "J'ai réservé un hôtel à Metz mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2278,
+    "text": "Mon film préféré a été tourné à Le Mans.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2097,
+    "text": "Organise mon voyage entre Le Mans et Bourges s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2286,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Vierzon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2235,
+    "text": "Je dois filer à Evreux, je décolle de Angers.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2219,
+    "text": "Peux-tu me trouver un ticket pour Vierzon ? Actuellement je suis à Dieppe.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2210,
+    "text": "Je prends le train à Vierzon et j'arrive à Angers vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2489,
+    "text": "Je cherche un covoiturage, pas un train, pour Bourges.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2215,
+    "text": "direction Biarritz depui Brest vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2038,
+    "text": "J'ai une réunion à Angers, du coup je pars de Bourges ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2204,
+    "text": "Je quitte enfin Brest pour m'installer à Nancy.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2198,
+    "text": "Organise mon voyage entre Dijon et Quimper s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2119,
+    "text": "Je quitte enfin Brest pour m'installer à Le Mans.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2027,
+    "text": "Trajet retour : Dijon vers Quimper.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2151,
+    "text": "Y a-t-il des liaisons directes Nancy-Vierzon ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2220,
+    "text": "Organise mon voyage entre Brest et Quimper s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2076,
+    "text": "Y a-t-il des liaisons directes Quimper-Nancy ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2473,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2141,
+    "text": "direction Vierzon depui Metz vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2306,
+    "text": "Il n'y a plus d'oranges à la biocoop de Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2124,
+    "text": "Est-il possible de transiter par Lyon pour aller de Dieppe à Biarritz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2354,
+    "text": "Le train de vie à Quimper est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2037,
+    "text": "Je dois filer à Rouen, je décolle de Quimper.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2384,
+    "text": "Bla bla bla Quimper Pau n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2063,
+    "text": "Est-il possible de transiter par Lyon pour aller de Dijon à Metz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2439,
+    "text": "Je cherche un covoiturage, pas un train, pour Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2145,
+    "text": "Je prends le train à Quimper et j'arrive à Rouen vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2080,
+    "text": "J'ai une réunion à Dieppe, du coup je pars de Le Mans ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2031,
+    "text": "Je quitte enfin Vierzon pour m'installer à Reims.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2154,
+    "text": "Je prends le train à Vierzon et j'arrive à Quimper vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2307,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2280,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Bourges.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2467,
+    "text": "Je cherche un covoiturage, pas un train, pour Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2336,
+    "text": "J'ai réservé un hôtel à Metz mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2432,
+    "text": "Comment est la météo sur la route entre Rouen et Quimper ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2362,
+    "text": "J'ai réservé un hôtel à Biarritz mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2140,
+    "text": "Trajet retour : Le Mans vers Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2352,
+    "text": "Le train de vie à Biarritz est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2196,
+    "text": "Je prends le train à Biarritz et j'arrive à Bourges vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2112,
+    "text": "Y a-t-il des liaisons directes Evreux-Pau ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2074,
+    "text": "direction Angers depui Nancy vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2167,
+    "text": "Je dois filer à Dijon, je décolle de Evreux.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2019,
+    "text": "Y a-t-il des liaisons directes Le Mans-Dijon ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2153,
+    "text": "Trajet retour : Biarritz vers Evreux.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2416,
+    "text": "Je t'envoie ce message depuis la gare de Tours.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2046,
+    "text": "Est-il possible de transiter par Lyon pour aller de Evreux à Dieppe ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2268,
+    "text": "Je t'envoie ce message depuis la gare de Le Mans.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2142,
+    "text": "Je dois filer à Pau, je décolle de Biarritz.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2285,
+    "text": "Je voudrais acheter un livre sur l'histoire de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2178,
+    "text": "Peux-tu me trouver un ticket pour Brest ? Actuellement je suis à Tours.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2346,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Tours.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2147,
+    "text": "Je prends le train à Reims et j'arrive à Le Mans vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2102,
+    "text": "Est-il possible de transiter par Lyon pour aller de Rouen à Nancy ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2052,
+    "text": "Trajet retour : Reims vers Rouen.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2238,
+    "text": "Je prends le train à Bourges et j'arrive à Reims vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2499,
+    "text": "Bla bla bla Tours Quimper n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2438,
+    "text": "Est-ce que Dijon est une ville plus grande que Reims ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2444,
+    "text": "Comment est la météo sur la route entre Rouen et Vierzon ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2221,
+    "text": "Organise mon voyage entre Bourges et Biarritz s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2411,
+    "text": "Je cherche un covoiturage, pas un train, pour Dieppe.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2184,
+    "text": "Organise mon voyage entre Pau et Le Mans s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2376,
+    "text": "Je voudrais acheter un livre sur l'histoire de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2166,
+    "text": "direction Reims depui Tours vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2318,
+    "text": "Comment est la météo sur la route entre Nancy et Pau ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2455,
+    "text": "Est-ce que Pau est une ville plus grande que Tours ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2334,
+    "text": "Je t'envoie ce message depuis la gare de Brest.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2011,
+    "text": "Je dois filer à Angers, je décolle de Quimper.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2300,
+    "text": "Bla bla bla Dijon Tours n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2150,
+    "text": "Est-il possible de transiter par Lyon pour aller de Biarritz à Metz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2168,
+    "text": "Je dois filer à Reims, je décolle de Angers.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2081,
+    "text": "Je dois filer à Le Mans, je décolle de Biarritz.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2413,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Dijon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2002,
+    "text": "Peux-tu me trouver un ticket pour Vierzon ? Actuellement je suis à Rouen.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2186,
+    "text": "J'ai une réunion à Dieppe, du coup je pars de Pau ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2322,
+    "text": "Le train de vie à Le Mans est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2399,
+    "text": "J'ai réservé un hôtel à Evreux mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2253,
+    "text": "Le train de vie à Bourges est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2202,
+    "text": "Trajet retour : Brest vers Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2335,
+    "text": "Bla bla bla Evreux Angers n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2388,
+    "text": "Je t'envoie ce message depuis la gare de Angers.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2355,
+    "text": "Je voudrais acheter un livre sur l'histoire de Le Mans.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2182,
+    "text": "direction Evreux depui Bourges vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2493,
+    "text": "Comment est la météo sur la route entre Brest et Dijon ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2207,
+    "text": "direction Dijon depui Rouen vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2115,
+    "text": "Est-il possible de transiter par Lyon pour aller de Biarritz à Reims ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2067,
+    "text": "direction Metz depui Dieppe vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2095,
+    "text": "Je dois filer à Nancy, je décolle de Brest.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2092,
+    "text": "Je quitte enfin Le Mans pour m'installer à Metz.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2498,
+    "text": "J'ai réservé un hôtel à Rouen mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2479,
+    "text": "Bla bla bla Reims Dieppe n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2034,
+    "text": "Je dois filer à Pau, je décolle de Le Mans.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2155,
+    "text": "Je dois filer à Tours, je décolle de Pau.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2484,
+    "text": "Mon film préféré a été tourné à Pau.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2126,
+    "text": "Y a-t-il des liaisons directes Evreux-Biarritz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2339,
+    "text": "Il n'y a plus d'oranges à la biocoop de Biarritz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2381,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Quimper.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2070,
+    "text": "Je prends le train à Dieppe et j'arrive à Dijon vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2114,
+    "text": "Trajet retour : Metz vers Tours.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2405,
+    "text": "Je cherche un covoiturage, pas un train, pour Dieppe.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2179,
+    "text": "Je prends le train à Nancy et j'arrive à Reims vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2225,
+    "text": "J'ai une réunion à Bourges, du coup je pars de Pau ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2401,
+    "text": "Je t'envoie ce message depuis la gare de Rouen.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2158,
+    "text": "Y a-t-il des liaisons directes Dijon-Quimper ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2091,
+    "text": "Trajet retour : Brest vers Dijon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2372,
+    "text": "Il n'y a plus d'oranges à la biocoop de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2482,
+    "text": "Je t'envoie ce message depuis la gare de Biarritz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2212,
+    "text": "Peux-tu me trouver un ticket pour Metz ? Actuellement je suis à Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2133,
+    "text": "Y a-t-il des liaisons directes Evreux-Angers ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2316,
+    "text": "J'ai réservé un hôtel à Metz mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2169,
+    "text": "Je prends le train à Tours et j'arrive à Biarritz vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2250,
+    "text": "Trajet retour : Le Mans vers Bourges.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2041,
+    "text": "Je quitte enfin Quimper pour m'installer à Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2251,
+    "text": "J'ai réservé un hôtel à Metz mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2333,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2277,
+    "text": "Je voudrais acheter un livre sur l'histoire de Biarritz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2480,
+    "text": "Comment est la météo sur la route entre Bourges et Pau ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2053,
+    "text": "Y a-t-il des liaisons directes Dieppe-Evreux ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2449,
+    "text": "Il n'y a plus d'oranges à la biocoop de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2047,
+    "text": "Organise mon voyage entre Nancy et Quimper s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2426,
+    "text": "Mon film préféré a été tourné à Angers.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2100,
+    "text": "Est-il possible de transiter par Lyon pour aller de Bourges à Dieppe ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2396,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Angers.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2247,
+    "text": "Organise mon voyage entre Dieppe et Tours s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2485,
+    "text": "J'ai réservé un hôtel à Rouen mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2101,
+    "text": "Je dois filer à Reims, je décolle de Metz.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2313,
+    "text": "Il n'y a plus d'oranges à la biocoop de Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2395,
+    "text": "J'ai réservé un hôtel à Le Mans mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2302,
+    "text": "Il n'y a plus d'oranges à la biocoop de Metz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2414,
+    "text": "Mon film préféré a été tourné à Metz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2205,
+    "text": "direction Dijon depui Bourges vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2425,
+    "text": "Le train de vie à Pau est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2397,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Dieppe.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2249,
+    "text": "Peux-tu me trouver un ticket pour Rouen ? Actuellement je suis à Evreux.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2108,
+    "text": "direction Reims depui Quimper vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2043,
+    "text": "Y a-t-il des liaisons directes Brest-Biarritz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2443,
+    "text": "Je t'envoie ce message depuis la gare de Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2116,
+    "text": "Trajet retour : Dieppe vers Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2288,
+    "text": "Je t'envoie ce message depuis la gare de Tours.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2289,
+    "text": "Le train de vie à Metz est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2412,
+    "text": "Bla bla bla Dieppe Biarritz n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2044,
+    "text": "Je prends le train à Bourges et j'arrive à Quimper vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2379,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Biarritz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2033,
+    "text": "Je quitte enfin Metz pour m'installer à Pau.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2464,
+    "text": "Il n'y a plus d'oranges à la biocoop de Quimper.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2364,
+    "text": "Je t'envoie ce message depuis la gare de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2135,
+    "text": "Y a-t-il des liaisons directes Dijon-Vierzon ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2272,
+    "text": "Bla bla bla Angers Le Mans n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2218,
+    "text": "Je quitte enfin Pau pour m'installer à Nancy.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2488,
+    "text": "Bla bla bla Dijon Vierzon n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2423,
+    "text": "Je cherche un covoiturage, pas un train, pour Dijon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2028,
+    "text": "Je prends le train à Vierzon et j'arrive à Quimper vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2136,
+    "text": "J'ai une réunion à Vierzon, du coup je pars de Le Mans ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2214,
+    "text": "Je prends le train à Evreux et j'arrive à Brest vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2340,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Tours.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2292,
+    "text": "Je voudrais acheter un livre sur l'histoire de Le Mans.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2403,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Dieppe.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2427,
+    "text": "J'ai réservé un hôtel à Evreux mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2191,
+    "text": "Trajet retour : Biarritz vers Bourges.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2419,
+    "text": "Je voudrais acheter un livre sur l'histoire de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2066,
+    "text": "Je quitte enfin Bourges pour m'installer à Le Mans.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2170,
+    "text": "Organise mon voyage entre Biarritz et Brest s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2259,
+    "text": "J'ai réservé un hôtel à Le Mans mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2172,
+    "text": "Est-il possible de transiter par Lyon pour aller de Dieppe à Dijon ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2007,
+    "text": "Je quitte enfin Angers pour m'installer à Le Mans.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2059,
+    "text": "J'ai une réunion à Reims, du coup je pars de Nancy ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2487,
+    "text": "J'ai réservé un hôtel à Dieppe mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2087,
+    "text": "Je dois filer à Le Mans, je décolle de Nancy.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2177,
+    "text": "Y a-t-il des liaisons directes Metz-Angers ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2245,
+    "text": "Est-il possible de transiter par Lyon pour aller de Biarritz à Dijon ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2291,
+    "text": "Mon film préféré a été tourné à Biarritz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2216,
+    "text": "Y a-t-il des liaisons directes Brest-Bourges ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2296,
+    "text": "J'ai réservé un hôtel à Reims mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2157,
+    "text": "Peux-tu me trouver un ticket pour Nancy ? Actuellement je suis à Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2144,
+    "text": "Peux-tu me trouver un ticket pour Vierzon ? Actuellement je suis à Dieppe.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2017,
+    "text": "direction Angers depui Bourges vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2123,
+    "text": "Je quitte enfin Brest pour m'installer à Evreux.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2024,
+    "text": "Je prends le train à Angers et j'arrive à Brest vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2303,
+    "text": "Je t'envoie ce message depuis la gare de Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2230,
+    "text": "Est-il possible de transiter par Lyon pour aller de Nancy à Quimper ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2120,
+    "text": "Est-il possible de transiter par Lyon pour aller de Reims à Dieppe ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2325,
+    "text": "Bla bla bla Rouen Tours n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2392,
+    "text": "Est-ce que Nancy est une ville plus grande que Brest ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2366,
+    "text": "Je t'envoie ce message depuis la gare de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2209,
+    "text": "Je dois filer à Quimper, je décolle de Le Mans.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2459,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Angers.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2098,
+    "text": "direction Rouen depui Angers vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2189,
+    "text": "Trajet retour : Nancy vers Dijon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2338,
+    "text": "Bla bla bla Pau Quimper n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2472,
+    "text": "Je t'envoie ce message depuis la gare de Dijon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2201,
+    "text": "Est-il possible de transiter par Lyon pour aller de Nancy à Brest ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2183,
+    "text": "Peux-tu me trouver un ticket pour Le Mans ? Actuellement je suis à Pau.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2194,
+    "text": "Y a-t-il des liaisons directes Evreux-Brest ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2073,
+    "text": "J'ai une réunion à Le Mans, du coup je pars de Dieppe ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2093,
+    "text": "Y a-t-il des liaisons directes Rouen-Tours ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2274,
+    "text": "Je cherche un covoiturage, pas un train, pour Bourges.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2244,
+    "text": "Je prends le train à Brest et j'arrive à Reims vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2146,
+    "text": "J'ai une réunion à Biarritz, du coup je pars de Angers ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2232,
+    "text": "J'ai une réunion à Rouen, du coup je pars de Reims ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2254,
+    "text": "Mon film préféré a été tourné à Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2287,
+    "text": "Le train de vie à Brest est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2003,
+    "text": "J'ai une réunion à Quimper, du coup je pars de Dijon ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2131,
+    "text": "Est-il possible de transiter par Lyon pour aller de Vierzon à Biarritz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2056,
+    "text": "direction Pau depui Bourges vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2320,
+    "text": "Est-ce que Bourges est une ville plus grande que Dijon ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2461,
+    "text": "Il n'y a plus d'oranges à la biocoop de Brest.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2358,
+    "text": "Mon film préféré a été tourné à Rouen.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2402,
+    "text": "Il n'y a plus d'oranges à la biocoop de Angers.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2436,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2001,
+    "text": "Trajet retour : Dijon vers Bourges.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2394,
+    "text": "Est-ce que Dijon est une ville plus grande que Biarritz ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2329,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Metz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2347,
+    "text": "Mon film préféré a été tourné à Pau.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2317,
+    "text": "Comment est la météo sur la route entre Angers et Rouen ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2113,
+    "text": "Est-il possible de transiter par Lyon pour aller de Brest à Metz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2162,
+    "text": "direction Reims depui Tours vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2152,
+    "text": "Je dois filer à Le Mans, je décolle de Brest.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2171,
+    "text": "Trajet retour : Brest vers Bourges.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2060,
+    "text": "Je quitte enfin Quimper pour m'installer à Angers.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2125,
+    "text": "J'ai une réunion à Angers, du coup je pars de Nancy ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2164,
+    "text": "J'ai une réunion à Bourges, du coup je pars de Quimper ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2407,
+    "text": "Je cherche un covoiturage, pas un train, pour Dijon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2009,
+    "text": "Trajet retour : Pau vers Quimper.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2159,
+    "text": "Y a-t-il des liaisons directes Tours-Le Mans ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2106,
+    "text": "Est-il possible de transiter par Lyon pour aller de Quimper à Reims ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2279,
+    "text": "Est-ce que Quimper est une ville plus grande que Le Mans ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2199,
+    "text": "Trajet retour : Rouen vers Dieppe.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2420,
+    "text": "Il n'y a plus d'oranges à la biocoop de Angers.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2256,
+    "text": "Je voudrais acheter un livre sur l'histoire de Vierzon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2021,
+    "text": "Je quitte enfin Brest pour m'installer à Reims.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2447,
+    "text": "Il n'y a plus d'oranges à la biocoop de Dijon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2181,
+    "text": "Je dois filer à Rouen, je décolle de Le Mans.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2398,
+    "text": "Mon film préféré a été tourné à Vierzon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2342,
+    "text": "Je t'envoie ce message depuis la gare de Metz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2271,
+    "text": "Comment est la météo sur la route entre Le Mans et Tours ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2276,
+    "text": "Est-ce que Le Mans est une ville plus grande que Pau ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2326,
+    "text": "Il n'y a plus d'oranges à la biocoop de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2206,
+    "text": "Organise mon voyage entre Brest et Dijon s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2062,
+    "text": "Trajet retour : Angers vers Pau.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2263,
+    "text": "Mon film préféré a été tourné à Metz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2004,
+    "text": "Je prends le train à Quimper et j'arrive à Evreux vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2374,
+    "text": "Comment est la météo sur la route entre Pau et Le Mans ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2386,
+    "text": "Mon film préféré a été tourné à Brest.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2389,
+    "text": "Il n'y a plus d'oranges à la biocoop de Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2356,
+    "text": "Comment est la météo sur la route entre Angers et Vierzon ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2349,
+    "text": "Je voudrais acheter un livre sur l'histoire de Le Mans.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2385,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Bourges.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2197,
+    "text": "Y a-t-il des liaisons directes Vierzon-Metz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2137,
+    "text": "direction Bourges depui Pau vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2428,
+    "text": "Je cherche un covoiturage, pas un train, pour Dieppe.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2361,
+    "text": "Je t'envoie ce message depuis la gare de Bourges.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2471,
+    "text": "Comment est la météo sur la route entre Angers et Le Mans ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2409,
+    "text": "J'ai réservé un hôtel à Dijon mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2099,
+    "text": "Trajet retour : Rouen vers Reims.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2143,
+    "text": "Est-il possible de transiter par Lyon pour aller de Biarritz à Le Mans ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2262,
+    "text": "Le train de vie à Rouen est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2400,
+    "text": "Mon film préféré a été tourné à Bourges.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2085,
+    "text": "J'ai une réunion à Biarritz, du coup je pars de Pau ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2418,
+    "text": "J'ai réservé un hôtel à Pau mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2460,
+    "text": "Je cherche un covoiturage, pas un train, pour Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2086,
+    "text": "Y a-t-il des liaisons directes Tours-Nancy ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2261,
+    "text": "Le train de vie à Brest est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2495,
+    "text": "Le train de vie à Angers est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2410,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2310,
+    "text": "Il n'y a plus d'oranges à la biocoop de Dieppe.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2020,
+    "text": "Je prends le train à Pau et j'arrive à Angers vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2255,
+    "text": "Est-ce que Vierzon est une ville plus grande que Le Mans ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2465,
+    "text": "Je voudrais acheter un livre sur l'histoire de Dijon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2490,
+    "text": "Est-ce que Evreux est une ville plus grande que Nancy ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2415,
+    "text": "Bla bla bla Dieppe Biarritz n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2237,
+    "text": "Trajet retour : Quimper vers Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2345,
+    "text": "Est-ce que Quimper est une ville plus grande que Angers ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2241,
+    "text": "direction Nancy depui Quimper vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2064,
+    "text": "Trajet retour : Biarritz vers Quimper.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2231,
+    "text": "Je prends le train à Pau et j'arrive à Evreux vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2264,
+    "text": "J'ai réservé un hôtel à Reims mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2430,
+    "text": "Je voudrais acheter un livre sur l'histoire de Metz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2129,
+    "text": "Y a-t-il des liaisons directes Rouen-Angers ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2103,
+    "text": "Organise mon voyage entre Quimper et Metz s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2446,
+    "text": "Mon film préféré a été tourné à Brest.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2371,
+    "text": "Le train de vie à Metz est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2029,
+    "text": "Je dois filer à Angers, je décolle de Rouen.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2378,
+    "text": "J'ai réservé un hôtel à Pau mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2494,
+    "text": "Je cherche un covoiturage, pas un train, pour Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2304,
+    "text": "Je t'envoie ce message depuis la gare de Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2192,
+    "text": "direction Pau depui Rouen vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2036,
+    "text": "Je prends le train à Evreux et j'arrive à Quimper vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2281,
+    "text": "Je t'envoie ce message depuis la gare de Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2022,
+    "text": "Je prends le train à Reims et j'arrive à Tours vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2069,
+    "text": "Y a-t-il des liaisons directes Rouen-Vierzon ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2341,
+    "text": "Est-ce que Metz est une ville plus grande que Bourges ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2118,
+    "text": "Peux-tu me trouver un ticket pour Metz ? Actuellement je suis à Brest.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2383,
+    "text": "Je cherche un covoiturage, pas un train, pour Dijon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2328,
+    "text": "Il n'y a plus d'oranges à la biocoop de Vierzon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2242,
+    "text": "Est-il possible de transiter par Lyon pour aller de Evreux à Brest ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2367,
+    "text": "Je t'envoie ce message depuis la gare de Bourges.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2090,
+    "text": "direction Angers depui Bourges vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2491,
+    "text": "Est-ce que Quimper est une ville plus grande que Le Mans ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2163,
+    "text": "Organise mon voyage entre Le Mans et Dieppe s'il te plaît.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2105,
+    "text": "Je dois filer à Quimper, je décolle de Rouen.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2417,
+    "text": "Il n'y a plus d'oranges à la biocoop de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2483,
+    "text": "Bla bla bla Dijon Le Mans n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2258,
+    "text": "Mon film préféré a été tourné à Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2160,
+    "text": "Trajet retour : Dieppe vers Le Mans.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2283,
+    "text": "Le train de vie à Dieppe est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2266,
+    "text": "Je t'envoie ce message depuis la gare de Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2057,
+    "text": "direction Angers depui Tours vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2257,
+    "text": "Comment est la météo sur la route entre Reims et Dijon ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2269,
+    "text": "Le train de vie à Tours est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2227,
+    "text": "Peux-tu me trouver un ticket pour Brest ? Actuellement je suis à Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2456,
+    "text": "Est-ce que Bourges est une ville plus grande que Nancy ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2434,
+    "text": "Je voudrais acheter un livre sur l'histoire de Le Mans.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2165,
+    "text": "Y a-t-il des liaisons directes Le Mans-Dieppe ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2075,
+    "text": "Est-il possible de transiter par Lyon pour aller de Nancy à Brest ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2477,
+    "text": "Il n'y a plus d'oranges à la biocoop de Angers.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2015,
+    "text": "Est-il possible de transiter par Lyon pour aller de Dijon à Biarritz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2240,
+    "text": "Je prends le train à Tours et j'arrive à Pau vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2082,
+    "text": "Je dois filer à Metz, je décolle de Brest.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2500,
+    "text": "Je voudrais acheter un livre sur l'histoire de Dijon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2365,
+    "text": "Il n'y a plus d'oranges à la biocoop de Rouen.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2299,
+    "text": "Le train de vie à Pau est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2236,
+    "text": "Je prends le train à Reims et j'arrive à Biarritz vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2239,
+    "text": "Je quitte enfin Evreux pour m'installer à Angers.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2421,
+    "text": "Est-ce que Pau est une ville plus grande que Le Mans ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2284,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Vierzon.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2248,
+    "text": "Est-il possible de transiter par Lyon pour aller de Rouen à Tours ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2058,
+    "text": "Peux-tu me trouver un ticket pour Pau ? Actuellement je suis à Metz.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2308,
+    "text": "Le train de vie à Bourges est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2117,
+    "text": "direction Tours depui Le Mans vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2054,
+    "text": "Je dois filer à Rouen, je décolle de Evreux.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2451,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Bourges.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2127,
+    "text": "Je dois filer à Le Mans, je décolle de Quimper.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2260,
+    "text": "Il n'y a plus d'oranges à la biocoop de Metz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2228,
+    "text": "Trajet retour : Tours vers Le Mans.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2370,
+    "text": "Je cherche un covoiturage, pas un train, pour Pau.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2061,
+    "text": "Je prends le train à Dieppe et j'arrive à Nancy vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2149,
+    "text": "Trajet retour : Nancy vers Rouen.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2130,
+    "text": "Trajet retour : Biarritz vers Dijon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2161,
+    "text": "Est-il possible de transiter par Lyon pour aller de Pau à Dieppe ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2110,
+    "text": "Y a-t-il des liaisons directes Quimper-Biarritz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2454,
+    "text": "Est-ce que Pau est une ville plus grande que Le Mans ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2175,
+    "text": "direction Metz depui Pau vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2213,
+    "text": "Je prends le train à Le Mans et j'arrive à Rouen vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2359,
+    "text": "Bla bla bla Dieppe Vierzon n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2478,
+    "text": "Je t'envoie ce message depuis la gare de Quimper.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2121,
+    "text": "Est-il possible de transiter par Lyon pour aller de Metz à Quimper ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2188,
+    "text": "direction Nancy depui Tours vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2051,
+    "text": "Je prends le train à Pau et j'arrive à Reims vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2077,
+    "text": "Je prends le train à Le Mans et j'arrive à Angers vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2068,
+    "text": "Je prends le train à Quimper et j'arrive à Tours vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2065,
+    "text": "J'ai une réunion à Le Mans, du coup je pars de Quimper ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2462,
+    "text": "Est-ce que Biarritz est une ville plus grande que Dijon ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2331,
+    "text": "Mon film préféré a été tourné à Le Mans.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2363,
+    "text": "Mon film préféré a été tourné à Metz.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2393,
+    "text": "Le train de vie à Evreux est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2252,
+    "text": "Je t'envoie ce message depuis la gare de Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2332,
+    "text": "Bla bla bla Vierzon Rouen n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2078,
+    "text": "Je prends le train à Reims et j'arrive à Le Mans vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2226,
+    "text": "Je dois filer à Quimper, je décolle de Brest.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2026,
+    "text": "J'ai une réunion à Brest, du coup je pars de Dieppe ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2008,
+    "text": "Y a-t-il des liaisons directes Evreux-Vierzon ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2270,
+    "text": "Je voudrais acheter un livre sur l'histoire de Reims.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2185,
+    "text": "Est-il possible de transiter par Lyon pour aller de Metz à Evreux ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2148,
+    "text": "Je dois filer à Biarritz, je décolle de Pau.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2273,
+    "text": "Je voudrais acheter un livre sur l'histoire de Pau.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2357,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Pau.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2404,
+    "text": "Comment est la météo sur la route entre Biarritz et Brest ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2311,
+    "text": "J'ai réservé un hôtel à Metz mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2200,
+    "text": "Peux-tu me trouver un ticket pour Vierzon ? Actuellement je suis à Dijon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2193,
+    "text": "Peux-tu me trouver un ticket pour Metz ? Actuellement je suis à Quimper.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2176,
+    "text": "Y a-t-il des liaisons directes Dijon-Metz ?",
+    "label": "TRIP"
+  },
+  {
+    "id": 2089,
+    "text": "Trajet retour : Evreux vers Vierzon.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2173,
+    "text": "direction Quimper depui Dieppe vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2282,
+    "text": "Donne moi les horaires d'ouverture de la mairie de Nancy.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2297,
+    "text": "Est-ce que Quimper est une ville plus grande que Dieppe ?",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2406,
+    "text": "J'ai réservé un hôtel à Metz mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2246,
+    "text": "Je quitte enfin Le Mans pour m'installer à Dieppe.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2195,
+    "text": "direction Nancy depui Brest vites!",
+    "label": "TRIP"
+  },
+  {
+    "id": 2055,
+    "text": "Je dois filer à Reims, je décolle de Le Mans.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2294,
+    "text": "Mon film préféré a été tourné à Evreux.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2458,
+    "text": "J'ai réservé un hôtel à Vierzon mais je n'ai pas encore mon billet.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2377,
+    "text": "Le train de vie à Le Mans est beaucoup trop cher pour moi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2321,
+    "text": "Bla bla bla Vierzon Rouen n'importe quoi.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2156,
+    "text": "Je quitte enfin Dijon pour m'installer à Le Mans.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2107,
+    "text": "J'ai une réunion à Dieppe, du coup je pars de Rouen ce matin.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2476,
+    "text": "Je t'envoie ce message depuis la gare de Brest.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2222,
+    "text": "Trajet retour : Dijon vers Quimper.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2442,
+    "text": "Je t'envoie ce message depuis la gare de Pau.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2109,
+    "text": "Je dois filer à Biarritz, je décolle de Reims.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2431,
+    "text": "Je voudrais acheter un livre sur l'histoire de Quimper.",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2096,
+    "text": "Je prends le train à Dieppe et j'arrive à Metz vers 14h.",
+    "label": "TRIP"
+  },
+  {
+    "id": 2501,
+    "text": "Je dois me rendre de Lyon à Marseille pour une réunion importante",
+    "label": "TRIP"
+  },
+  {
+    "id": 2503,
+    "text": "Vol direct Nice-Nantes mercredi soir",
+    "label": "TRIP"
+  },
+  {
+    "id": 2505,
+    "text": "Je cherche un trajet Bordeaux-Limoges",
+    "label": "TRIP"
+  },
+  {
+    "id": 2507,
+    "text": "Combien de kilomètres entre Amiens et Reims",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2509,
+    "text": "Je dois voyager de Caen à Rouen",
+    "label": "TRIP"
+  },
+  {
+    "id": 2511,
+    "text": "Navette Biarritz-Bayonne disponible",
+    "label": "TRIP"
+  },
+  {
+    "id": 2513,
+    "text": "Réserver passage Montpellier-Nîmes",
+    "label": "TRIP"
+  },
+  {
+    "id": 2515,
+    "text": "Autocar Poitiers-La Rochelle",
+    "label": "TRIP"
+  },
+  {
+    "id": 2516,
+    "text": "Quelle heure est-il à Bordeaux",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2518,
+    "text": "Marseille a une belle côte méditerranée",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2520,
+    "text": "Quel créneau pour une réunion entre Toulouse et Nantes",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2522,
+    "text": "La ligne Amiens-Reims prend combien de temps",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2524,
+    "text": "Réunion Zoom Bordeaux Strasbourg",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2526,
+    "text": "Durée trajet Caen Rouen",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2528,
+    "text": "Quand revient le train de Nantes",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2530,
+    "text": "Tarif standard Biarritz Bayonne sans réservation",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2561,
+    "text": "Temps de parcours Kinshasa Matadi",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2562,
+    "text": "Combien de minutes entre Nice et Antibes",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2563,
+    "text": "Horaires d'ouverture de la gare de Marseille",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2564,
+    "text": "Le train Abidjan Bouake part à quelle heure",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2565,
+    "text": "Quel est le temps de trajet Porto-Novo Cotonou",
+    "label": "NOT_TRIP"
+  },
+  {
+    "id": 2566,
+    "text": "Je pars en voyage de Rabat à Marrakech",
+    "label": "TRIP"
+  },
+  {
+    "id": 2567,
+    "text": "Je vais à Biarritz depuis Bayonne",
+    "label": "TRIP"
+  },
+  {
+    "id": 2568,
+    "text": "Je me déplace de Bamako à Sikasso",
+    "label": "TRIP"
+  },
+  {
+    "id": 2569,
+    "text": "Je prends le train pour aller de Metz à Nancy",
+    "label": "TRIP"
+  },
+  {
+    "id": 2570,
+    "text": "Je vais quitter Nice pour Monaco",
+    "label": "TRIP"
+  }
+]

@@ -41,10 +41,17 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Modèle lourd - À télécharger séparément
-# Voir MODEL_SETUP.md pour les instructions
-intent_model_final/
+# Modèle lourd - géré séparément sur Colab
+intent_model_final/*.safetensors
+intent_model_final/*.bin
+intent_model_final/*.pt
 model_cache/
-*.safetensors
-*.bin
-*.pt
+
+# Checkpoints temporaires Optuna
+optuna_trial_*/
+checkpoint*/
+
+# Fichiers temporaires
+*.log
+best_hyperparams.json
+quantized_model.pt
