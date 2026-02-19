@@ -37,7 +37,7 @@ async def load_model():
     global model, tokenizer
     try:
         logger.info("Chargement du modèle...")
-        model_path = "./intent_model_final"
+        model_path = "https://drive.google.com/drive/folders/1U63J23Z6ouUuNPczH9cZfrXp-GAOoQ5z?usp=drive_link"
         tokenizer = AutoTokenizer.from_pretrained(model_path)
         model = AutoModelForSequenceClassification.from_pretrained(model_path)
         model.eval()
