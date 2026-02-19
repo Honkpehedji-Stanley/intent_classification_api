@@ -41,17 +41,18 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Modèle lourd - géré séparément sur Colab
-intent_model_final/*.safetensors
-intent_model_final/*.bin
-intent_model_final/*.pt
-model_cache/
+# Dataset - géré sur Google Drive
+dataset/
+
+# Notebooks et fichiers de développement
+*.ipynb
+test_api.py
 
 # Checkpoints temporaires Optuna
 optuna_trial_*/
 checkpoint*/
+model_cache/
 
 # Fichiers temporaires
-*.log
 best_hyperparams.json
 quantized_model.pt

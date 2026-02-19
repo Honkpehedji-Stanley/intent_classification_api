@@ -37,7 +37,7 @@ async def load_model():
     global model, tokenizer
     try:
         logger.info("Chargement du modèle...")
-        model_path = "Peax22/intent_model_final"
+        model_path = "./intent_model_final"  # Modèle local (DistilCamemBERT ~260 Mo)
         tokenizer = AutoTokenizer.from_pretrained(model_path)
         model = AutoModelForSequenceClassification.from_pretrained(model_path)
         model.eval()
