@@ -46,22 +46,6 @@ async def load_model():
         logger.error(f"Erreur lors du chargement du modèle: {e}")
         raise
 
-@app.get("/")
-async def root():
-    """Endpoint racine pour vérifier que l'API fonctionne"""
-    return {
-        "message": "Intent Classification API est en ligne",
-        "status": "running"
-    }
-
-@app.get("/health")
-async def health_check():
-    """Vérification de la santé de l'API"""
-    return {
-        "status": "healthy",
-        "model_loaded": model is not None
-    }
-
 @app.post("/classify", response_model=ClassificationResponse)
 async def classify_intent(request: TranslationRequest):
     """
