@@ -48,6 +48,10 @@ dataset/
 *.ipynb
 test_api.py
 
+# Documentation (non nécessaire au déploiement)
+GUIDE_COMPLET_NOTEBOOK.md
+GUIDE_COMPLET_NOTEBOOK.docx
+
 # Checkpoints temporaires Optuna
 optuna_trial_*/
 checkpoint*/
