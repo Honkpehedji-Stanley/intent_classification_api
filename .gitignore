@@ -6,6 +6,7 @@ __pycache__/
 .Python
 env/
 venv/
+.venv/
 ENV/
 build/
 develop-eggs/
@@ -48,7 +49,7 @@ dataset/
 *.ipynb
 test_api.py
 
-# Documentation (non nécessaire au déploiement)
+# Documentation (non nécessaire sur GitHub)
 GUIDE_COMPLET_NOTEBOOK.md
 GUIDE_COMPLET_NOTEBOOK.docx
 
